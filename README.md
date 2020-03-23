@@ -13,10 +13,11 @@ Then you can chat with the other users online on your chosen server.
 You can also start your own server.
 In this case you need to download server.c and Makefile,
 compile server file (enter "make server" in the terminal)
-and execute the program this way (<port> is an arbitrary number 1000-10000):
+and execute the program this way ("port" is an arbitrary number 1000-10000):
 
 ```
 ./server <port>
 ```
 
-To exit send "-exit" in your terminal.
+To exit client send "-exit" in your terminal.
+To exit server press Ctrl+C.
