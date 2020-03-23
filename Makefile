@@ -1,2 +1,2 @@
 %: %.c
-	gcc -o $@ $@.c -lm -Wall
+	gcc -o $@ $@.c
