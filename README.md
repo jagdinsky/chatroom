@@ -19,5 +19,8 @@ and execute the program this way ("port" is an arbitrary number 1000-10000):
 ./server <port>
 ```
 
+Maximum number of clients for an only server is 128.
+
 To exit client send "-exit" in your terminal.
+
 To exit server press Ctrl+C.
